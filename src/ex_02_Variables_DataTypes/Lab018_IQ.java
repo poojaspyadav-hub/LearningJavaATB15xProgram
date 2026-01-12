@@ -1,0 +1,12 @@
+package ex_02_Variables_DataTypes;
+
+public class Lab018_IQ {
+
+    public static void main(String[] args)
+    {
+        int _= 65;
+        int $=65;
+        int year= 2025;
+        int This_is_a_very_long_variable_name= 89;
+    }
+}
