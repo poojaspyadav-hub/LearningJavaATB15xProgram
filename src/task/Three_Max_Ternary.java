@@ -1,5 +1,5 @@
 package task;
-public class Three_Max_Ternary_24Dec {
+public class Three_Max_Ternary {
     public static void main(String[] args) {
 
         int n1 = 2;
